@@ -1,5 +1,8 @@
 JSON Schema $Ref Parser
 ============================
+
+_[json-schema-ref-parser](https://www.npmjs.com/package/json-schema-ref-parser) fork that excludes Node.js built-in modules in the browser._
+
 #### Parse, Resolve, and Dereference JSON Schema $ref pointers
 
 [![Build Status](https://api.travis-ci.com/APIDevTools/json-schema-ref-parser.svg?branch=master)](https://travis-ci.com/APIDevTools/json-schema-ref-parser)
